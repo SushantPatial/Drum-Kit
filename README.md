@@ -10,3 +10,4 @@ https://sushantpatial.github.io/Drum-Kit
 
 ### Screenshots
 
+![image](https://user-images.githubusercontent.com/84243683/130829477-22207de8-e1d4-48d1-883f-5b7b54010f71.png)
