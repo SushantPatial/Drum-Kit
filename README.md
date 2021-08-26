@@ -1,8 +1,8 @@
 # Drum Kit
 
-A website that allows you to carry a drum set around in your pocket! Create incredible beats with the Drum Kit!
+<b>A website that allows you to carry a drum set around in your pocket! Create incredible beats with the Drum Kit!</b>
 
-### Languages used:
+### Languages used
 Front-end: HTML, CSS, JavaScript
 
 ### Try it out!
